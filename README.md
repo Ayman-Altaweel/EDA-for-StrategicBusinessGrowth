@@ -1,16 +1,6 @@
-# EDA-for-Strategic-Business-Growth
-
 # **Overview**
 
-  Background: (Company Name) (Department Name) (Function)
-
-  Problem: (Clear Statement)
-
-  Objective: (Clear Objective)
-
-  Question: (Analytical Question)
-
-  Analytics Solution / Methodology: (Technical Solution) (Analytics Type) (Analytics Model) (Model Function) (Model Accuracy)
+Bolt is a company that offers ride-hailing, electric scooter and bike rentals, food delivery, car rentals, business services, financial technology solutions, and courier services through its versatile super app. In this project, our primary focus lies on ***Bolt Business***, the B2B arm of Bolt. We aim to extract valuable ***insights*** from acquisition and ordering data to formulate ***strategic growth recommendations*** for Bolt's Business country managers, directors and VP.
 
   ![Case study poster]
 
