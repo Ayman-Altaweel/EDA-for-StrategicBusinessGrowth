@@ -44,12 +44,12 @@ Bolt is a company that offers ride-hailing, electric scooter and bike rentals, f
 
   # **EDA Key Insights**
 
-  - ![KPIs](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/kpis.PNG)
-  - ![Acquisitions per Channel](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/acquisitions%20per%20channel.PNG)
-  - ![Acquisitions per Region](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/acquisitions%20per%20region.PNG)
-  - ![Acquisitions per Region & Channel](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/acquisitions%20per%20region%20and%20channel.PNG)
-  - ![Segments Profitability](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/segments%20profitability.PNG)
-  - ![Monthly Revenues & Orders](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/monthly%20revenues%20%26%20orders.PNG)
+   ![KPIs](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/kpis.PNG)
+   ![Acquisitions per Channel](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/acquisitions%20per%20channel.PNG)
+   ![Acquisitions per Region](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/acquisitions%20per%20region.PNG)
+   ![Acquisitions per Region & Channel](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/acquisitions%20per%20region%20and%20channel.PNG)
+   ![Segments Profitability](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/segments%20profitability.PNG)
+   ![Monthly Revenues & Orders](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/monthly%20revenues%20%26%20orders.PNG)
 
 
   # **Recommendations**
