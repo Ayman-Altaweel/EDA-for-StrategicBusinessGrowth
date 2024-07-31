@@ -2,13 +2,13 @@
 
 Bolt is a company that offers ride-hailing, electric scooter and bike rentals, food delivery, car rentals, business services, financial technology solutions, and courier services through its versatile super app. In this project, our primary focus lies on ***Bolt Business***, the B2B arm of Bolt. We aim to extract valuable ***insights*** from acquisition and ordering data to formulate ***strategic growth recommendations*** for Bolt's Business country managers, directors and VP.
 
-  ![Case study poster]
-
-
 
   # **Data Sources**
 
-  - [Data source: Name ](link)
+  - [Ordering Data]([link](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Analysis%20Data/data-ordering.xlsx))
+  - [Acquisitions Data]([link](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Analysis%20Data/data-acquisition.xlsx))
+
+  
   | Column | Description   | Example Values |
   |--------|---------------|----------------|
   |        |               |                |
