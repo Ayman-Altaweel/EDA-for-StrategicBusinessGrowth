@@ -53,7 +53,7 @@ Bolt is a company that offers ride-hailing, electric scooter and bike rentals, f
 
 
   # **Recommendations**
-  - ![Strategic Recommendations](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/strategic%20recommendations.PNG)
+![Strategic Recommendations](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/strategic%20recommendations.PNG)
 
 
 
