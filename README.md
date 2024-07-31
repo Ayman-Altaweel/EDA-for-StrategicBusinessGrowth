@@ -44,12 +44,12 @@ Bolt is a company that offers ride-hailing, electric scooter and bike rentals, f
 
   # **EDA Key Insights**
 
+  - ![KPIs](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/kpis.PNG)
   - ![Acquisitions per Channel](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/acquisitions%20per%20channel.PNG)
   - ![Acquisitions per Region](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/acquisitions%20per%20region.PNG)
   - ![Acquisitions per Region & Channel](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/acquisitions%20per%20region%20and%20channel.PNG)
-  - ![KPIs](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/kpis.PNG)
-  - ![Monthly Revenues & Orders](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/monthly%20revenues%20%26%20orders.PNG)
   - ![Segments Profitability](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/segments%20profitability.PNG)
+  - ![Monthly Revenues & Orders](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/monthly%20revenues%20%26%20orders.PNG)
 
 
   # **Recommendations**
@@ -58,11 +58,11 @@ Bolt is a company that offers ride-hailing, electric scooter and bike rentals, f
 
 
   # **Conclusion**
-In summary, our analytics project has yielded actionable strategic recommendations for driving Bolt Business growth, with a focus on acquisition optimization and profitability maximization.
+In summary, our analytics project has yielded actionable strategic recommendations for driving Bolt Business growth, focusing on acquisition optimization and profitability maximization.
 
 
 
   # **Appendix**
   
-  - (Code-Dashboard-Paper)
-  - Presentation Storytelling
+  - [Presentation Slides](https://docs.google.com/presentation/d/19CLk_pnv4ATStA7liKf7NS4Mb5Tsv4qs9m-782pUUK4/edit?usp=sharing)
+  - [Analysis Notebook](https://colab.research.google.com/drive/1WqzR5eXR7Jf0dhxlmApou--V21oHz98W?usp=sharing)
