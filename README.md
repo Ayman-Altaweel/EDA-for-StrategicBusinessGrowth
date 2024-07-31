@@ -4,15 +4,7 @@ Bolt is a company that offers ride-hailing, electric scooter and bike rentals, f
 
 
   # **Data Sources**
-
-  - [Ordering Data](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Analysis%20Data/data-ordering.xlsx)
-      - Region, Acquisition Channel, Segment (as defined above)
-      - Order Month: the month when an order was placed  (ex: 2024-05, 2024-12)
-      - Active Companies: number of companies with at least one completed order (ex: 7, 18, ...etc)
-      - Revenue: generated revenues (ex: 163, 59.44, ...etc)
-      - Orders: number of completed orders (ex: 22, 36, ...etc)
-
-        
+  
   - [Acquisitions Data](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Analysis%20Data/data-acquisition.xlsx)
       - Region: geographical location of the company (ex: Seraphica, Valoria, ...etc)
       - Acquisition Channel: how the company was acquired (ex: Marketing, Outreach)
@@ -20,6 +12,12 @@ Bolt is a company that offers ride-hailing, electric scooter and bike rentals, f
       - Acquisition Month: the month when the companies signed up  (ex: 2024-02, 2024-10, ...etc)
       - New Companies: number of companies that signed up  (ex: 5, 2, 15, ...etc)
   
+  - [Ordering Data](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Analysis%20Data/data-ordering.xlsx)
+      - Region, Acquisition Channel, Segment (as defined above)
+      - Order Month: the month when an order was placed  (ex: 2024-05, 2024-12)
+      - Active Companies: number of companies with at least one completed order (ex: 7, 18, ...etc)
+      - Revenue: generated revenues (ex: 163, 59.44, ...etc)
+      - Orders: number of completed orders (ex: 22, 36, ...etc)
 
 
 
