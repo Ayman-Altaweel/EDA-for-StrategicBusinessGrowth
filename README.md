@@ -6,15 +6,19 @@ Bolt is a company that offers ride-hailing, electric scooter and bike rentals, f
   # **Data Sources**
 
   - [Ordering Data](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Analysis%20Data/data-ordering.xlsx)
+      - Region: geographical location of the company (ex: Seraphica, Valoria, ...etc)
+      - Acquisition Channel: how the company was acquired (ex: Marketing, Outreach)
+      - Segment: company performance tier  (ex: T1, T2, ...etc)
+      - Acquisition Month: the month when the companies signed up  (ex: 2024-02, 2024-10, ...etc)
+      - New Companies: number of companies that signed up  (ex: 5, 2, 15, ...etc)
+        
   - [Acquisitions Data](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Analysis%20Data/data-acquisition.xlsx)
+  - Region, Acquisition Channel, Segment (as defined above)
+  - Order Month: the month when an order was placed  (ex: )
+  - Active Companies
 
   
-  | Column | Description   | Example Values |
-  |--------|---------------|----------------|
-  |        |               |                |
-  |        |               |                |
-  |        |               |                |
-  - Scripts
+  
 
 
 
