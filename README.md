@@ -44,20 +44,22 @@ Bolt is a company that offers ride-hailing, electric scooter and bike rentals, f
 
   # **EDA Key Insights**
 
-  - ![Model_Insight_Description](link)
-  - ![Model_Insight_Description](link)
+  - ![Acquisitions per Channel](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/acquisitions%20per%20channel.PNG)
+  - ![Acquisitions per Region](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/acquisitions%20per%20region.PNG)
+  - ![Acquisitions per Region & Channel](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/acquisitions%20per%20region%20and%20channel.PNG)
+  - ![KPIs](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/kpis.PNG)
+  - ![Monthly Revenues & Orders](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/monthly%20revenues%20%26%20orders.PNG)
+  - ![Segments Profitability](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/segments%20profitability.PNG)
 
 
   # **Recommendations**
+  - ![Strategic Recommendations](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Images/segments%20profitability.PNG)
 
-  - csd
-  - vdf
 
 
   # **Conclusion**
+In summary, our analytics project has yielded actionable strategic recommendations for driving Bolt Business growth, with a focus on acquisition optimization and profitability maximization.
 
-  - ###
-  - ###
 
 
   # **Appendix**
