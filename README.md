@@ -5,8 +5,8 @@ Bolt is a company that offers ride-hailing, electric scooter and bike rentals, f
 
   # **Data Sources**
 
-  - [Ordering Data]([link](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Analysis%20Data/data-ordering.xlsx))
-  - [Acquisitions Data]([link](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Analysis%20Data/data-acquisition.xlsx))
+  - [Ordering Data](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Analysis%20Data/data-ordering.xlsx)
+  - [Acquisitions Data](https://github.com/Ayman947/EDA-for-Strategic-Business-Growth/blob/main/Analysis%20Data/data-acquisition.xlsx)
 
   
   | Column | Description   | Example Values |
