@@ -58,7 +58,7 @@ Bolt is a company that offers ride-hailing, electric scooter and bike rentals, f
 
 
   # **Conclusion**
-In summary, our analytics project has yielded actionable strategic recommendations for driving Bolt Business growth, focusing on acquisition optimization and profitability maximization.
+In summary, our analytics project has yielded **actionable strategic recommendations** for driving Bolt Business growth, focusing on **acquisition optimization** and **profitability maximization**.
 
 
 
